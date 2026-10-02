@@ -46,3 +46,6 @@
 > [!danger] 警告！
 > 此操作无法撤销。
 ```
+# 演示地址
+
+https://typecho.1151111.xyz/index.php/default/4.html
