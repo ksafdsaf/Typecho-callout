@@ -46,3 +46,7 @@ Simply write in standard Obsidian Markdown syntax inside your Typecho editor:
 > This operation cannot be undone.
 
 The plugin will automatically parse the blockquotes and render them as beautifully styled warning and info blocks on your frontend.
+
+## Live Demo
+
+https://typecho.1151111.xyz/index.php/default/4.html
