@@ -49,4 +49,4 @@ The plugin will automatically parse the blockquotes and render them as beautiful
 
 ## Live Demo
 
-https://typecho.1151111.xyz/index.php/default/4.html
+https://typecho.1151111.xyz/index.php/default/4
