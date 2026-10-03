@@ -48,4 +48,4 @@
 ```
 ## 演示地址
 
-[https://typecho.1151111.xyz/index.php/default/4.html](https://typecho.1151111.xyz/index.php/default/4)
+https://typecho.1151111.xyz/index.php/default/4
